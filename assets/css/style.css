@@ -555,3 +555,11 @@ section{
 		margin-bottom: 60px;
 	}
 }
+
+
+/*Victor Style Functions*/
+.circular--square {
+  border-radius: 50%;
+}
+
+
